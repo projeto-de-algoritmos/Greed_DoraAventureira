@@ -9,7 +9,11 @@ import vara from '../assets/vara-de-pescar.png';
 import flipflop from '../assets/flipflop.png';
 import melancia from '../assets/melancia.png';
 import bulsola from '../assets/bulsola.png';
-import apple from '../assets/apple.png'
+import apple from '../assets/apple.png';
+import bicicleta from '../assets/bicicleta.png';
+import chapeu from '../assets/chapeu.png';
+import cubo from '../assets/cubo.png';
+import poke from '../assets/poke.png';
 
 export default [
     {weight: 70, value: 135, image: comida, name: "Comida"},
@@ -23,8 +27,8 @@ export default [
     {weight: 98, value: 192, image: melancia, name: "Melancia"},
     {weight: 106, value: 201, image: bulsola, name: "Bússola"},
     {weight: 110, value: 210, image: apple, name: "Maçã"},
-    {weight: 113, value: 214, image: comida, name: "comida"},
-    {weight: 115, value: 221, image: comida, name: "comida"},
-    {weight: 118, value: 229, image: comida, name: "comida"},
-    {weight: 120, value: 240, image: comida, name: "comida"}
+    {weight: 113, value: 214, image: bicicleta, name: "Bicicleta"},
+    {weight: 115, value: 221, image: chapeu, name: "Chapéu"},
+    {weight: 118, value: 229, image: cubo, name: "Cubo Mágico"},
+    {weight: 120, value: 240, image: poke, name: "Pokebola"}
 ]
