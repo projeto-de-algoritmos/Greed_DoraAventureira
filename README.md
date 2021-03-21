@@ -20,6 +20,12 @@ O projeto **Dora Aventureira** é uma implementação do algoritmo guloso, `Knap
 
 ![](src/assets/dora3.png)
 
+## Vídeo
+
+Clique abaixo para ver o vídeo completo!
+
+[![Video](https://media.giphy.com/media/MEQtNOJIGp9FPV5atV/giphy.gif)](VideoExplicativoDoProjeto.mp4)
+
 ## Instalação 
 **Linguagem**: JavaScript<br>
 **Framework**: ReactJS<br>
